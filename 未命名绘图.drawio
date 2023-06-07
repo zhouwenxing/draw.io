@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" modified="2023-06-07T02:57:19.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hTBCxNR1uJaIlGvwcxxx" version="21.3.7" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1221" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kG_jibdD-xBOYze4PCFx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kG_jibdD-xBOYze4PCFx-1" target="kG_jibdD-xBOYze4PCFx-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="160" />
+              <mxPoint x="170" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="110" y="135" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kG_jibdD-xBOYze4PCFx-5" target="kG_jibdD-xBOYze4PCFx-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-5" value="需求评审" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="140" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kG_jibdD-xBOYze4PCFx-9" target="kG_jibdD-xBOYze4PCFx-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-9" value="任务初步&lt;br&gt;拆解评估" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kG_jibdD-xBOYze4PCFx-11" target="kG_jibdD-xBOYze4PCFx-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-11" value="设计评审" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kG_jibdD-xBOYze4PCFx-13" target="kG_jibdD-xBOYze4PCFx-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-13" value="邮件输出开发计划" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="485" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kG_jibdD-xBOYze4PCFx-15" target="kG_jibdD-xBOYze4PCFx-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-15" value="AIO同步拆解任务" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kG_jibdD-xBOYze4PCFx-17" target="kG_jibdD-xBOYze4PCFx-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-17" value="启动开发" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kG_jibdD-xBOYze4PCFx-19" value="启动开发" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
