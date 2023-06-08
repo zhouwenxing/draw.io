@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T09:49:48.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CmiRoiDI7fy4IQnPQCbX" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T09:59:22.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WAvINE4kYF4pspiPSJSg" version="21.3.7" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1221" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-44" value="输出排期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="710" y="481" width="60" height="40" as="geometry" />
+          <mxGeometry x="710" y="463" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-46" value="AIO&lt;br&gt;任务拆分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="371" width="60" height="40" as="geometry" />
@@ -55,68 +55,68 @@
         <mxCell id="PUBMR1g08KAvNZrsVd03-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUBMR1g08KAvNZrsVd03-48" target="PUBMR1g08KAvNZrsVd03-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="501" />
-              <mxPoint x="530" y="501" />
+              <mxPoint x="530" y="483" />
+              <mxPoint x="530" y="483" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-48" value="开始开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="481" width="60" height="40" as="geometry" />
+          <mxGeometry x="570" y="463" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUBMR1g08KAvNZrsVd03-50" target="PUBMR1g08KAvNZrsVd03-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-50" value="发起提测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="430" y="481" width="60" height="40" as="geometry" />
+          <mxGeometry x="430" y="463" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUBMR1g08KAvNZrsVd03-52" target="PUBMR1g08KAvNZrsVd03-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-52" value="UAT测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="481" width="60" height="40" as="geometry" />
+          <mxGeometry x="290" y="463" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUBMR1g08KAvNZrsVd03-54" target="PUBMR1g08KAvNZrsVd03-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-80" value="3天内" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF6666;" vertex="1" connectable="0" parent="PUBMR1g08KAvNZrsVd03-57">
           <mxGeometry x="0.2116" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-54" value="上线生产" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="150" y="481" width="60" height="40" as="geometry" />
+          <mxGeometry x="150" y="463" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUBMR1g08KAvNZrsVd03-56" target="PUBMR1g08KAvNZrsVd03-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="625" />
-              <mxPoint x="250" y="625" />
+              <mxPoint x="250" y="601" />
+              <mxPoint x="250" y="601" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-56" value="代码评审" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="150" y="605" width="60" height="40" as="geometry" />
+          <mxGeometry x="150" y="581" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUBMR1g08KAvNZrsVd03-60" target="PUBMR1g08KAvNZrsVd03-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-60" value="输出&lt;br&gt;评审意见" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="290" y="605" width="60" height="40" as="geometry" />
+          <mxGeometry x="290" y="581" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PUBMR1g08KAvNZrsVd03-64" target="PUBMR1g08KAvNZrsVd03-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-64" value="代码修正" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="605" width="60" height="40" as="geometry" />
+          <mxGeometry x="430" y="581" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-66" value="记录&lt;br&gt;影响点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="605" width="60" height="40" as="geometry" />
+          <mxGeometry x="570" y="581" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-68" value="新建代码分支" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="575" width="80" height="30" as="geometry" />
+          <mxGeometry x="420" y="551" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-76" value="用例评审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="481" width="60" height="40" as="geometry" />
+          <mxGeometry x="850" y="463" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-78" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="435" y="202" width="50" height="293.87" as="geometry" />
@@ -129,21 +129,30 @@
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-83" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="360" as="sourcePoint" />
-            <mxPoint x="680" y="310" as="targetPoint" />
+            <mxPoint x="630" y="368" as="sourcePoint" />
+            <mxPoint x="680" y="318" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-84" value="每个模块开发人员负责讲解实现方案，并说明工作量评估依据&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="690" y="250" width="170" height="60" as="geometry" />
+          <mxGeometry x="620" y="250" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-85" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="645" as="sourcePoint" />
-            <mxPoint x="250" y="710" as="targetPoint" />
+            <mxPoint x="212" y="621" as="sourcePoint" />
+            <mxPoint x="242" y="686" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-86" value="开发负责人指定1名成员进行评审，原则上应选择当前版本核心模块代码或代码量较多模块代码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="180" y="720" width="170" height="60" as="geometry" />
+          <mxGeometry x="170" y="688" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUBMR1g08KAvNZrsVd03-88" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="631" y="622" as="sourcePoint" />
+            <mxPoint x="661" y="687" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUBMR1g08KAvNZrsVd03-89" value="下个版本提测一并同步给测试；&lt;br&gt;如暂时无版本，则单独发起回归测试验证&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="600" y="688" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
