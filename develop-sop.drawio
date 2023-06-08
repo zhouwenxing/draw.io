@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T09:59:22.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="WAvINE4kYF4pspiPSJSg" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T10:02:51.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="w4hmAF-FbP_e2xJpCPlR" version="21.3.7" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1221" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
           <mxGeometry x="430" y="291" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-82" value="1、橙色部分由开发负责人发起，参会人为组内所有开发和项目所属生态参与，线下进行&lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;2、蓝色部分表示需要邮件输出，邮件发送人为当前项目开发负责人&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="140" y="180" width="600" height="30" as="geometry" />
+          <mxGeometry x="140" y="205" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-83" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -153,6 +153,15 @@
         </mxCell>
         <mxCell id="PUBMR1g08KAvNZrsVd03-89" value="下个版本提测一并同步给测试；&lt;br&gt;如暂时无版本，则单独发起回归测试验证&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="600" y="688" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PUBMR1g08KAvNZrsVd03-90" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="457" y="622" as="sourcePoint" />
+            <mxPoint x="487" y="687" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUBMR1g08KAvNZrsVd03-91" value="项目负责人根据评审意见核对开发是否完成修改&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="390" y="688" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
