@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="第 1 页" id="dSIen9gL5V9xYAruqdZ_">
-    <mxGraphModel dx="1221" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
         <mxCell id="QdTmFuUWVvn-fkTDAf5--41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="100" y="250" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="QdTmFuUWVvn-fkTDAf5--44" value="同一个系统对接多个接口实现可视化定制顺序实现接口任意顺序组合，一键发布生效" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QdTmFuUWVvn-fkTDAf5--44" value="同一个系统对接多个接口，支持接口任意顺序组合，配置后一键发布生效" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="265" width="60" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QdTmFuUWVvn-fkTDAf5--54" value="全局拦截器" style="shape=doubleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
